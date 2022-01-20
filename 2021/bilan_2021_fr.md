@@ -19,26 +19,30 @@
 - Création du serveur **Discord**, du [site web](https://apt42.fr/), du **Github**, chaînes [Twitch](https://www.twitch.tv/apt42_club) et [Youtube](https://www.youtube.com/channel/UCsiiU-HqyHesPC4t3mEMZQw), de la page [Linkedin](https://www.linkedin.com/company/apt42/) et du Wiki interne.
 - Création du logo par Raphaël Almazan.
 - Création de l'équipe université **42paris** sur HackTheBox.
+- Tenues de stands lors des stands des associations à 42.
 
 ## Pédagogie
 
 Streaming [Twitch](https://www.twitch.tv/apt42_club) hebdomadaire par macosta : **Road to OSCP**  
 Vidéos ensuite disponibles sur [Youtube](https://www.youtube.com/channel/UCsiiU-HqyHesPC4t3mEMZQw) avec l'aide de jdidier pour le montage.
 
+Un court stream sur un challenge par mboivin.
+
 **HackTheBox Club** : des sessions en groupe sur Discord, horaires libres.
 
-**OSINT Club par hmerieux** : un rdv hebdomadaire sur Discord pour s'entraîner en OSINT.
+**OSINT Club** par hmerieux.  
+Un rdv hebdomadaire sur Discord pour s'entraîner en OSINT.
 
 **CTF OSINT** par avan-pra, mboivin, therbret et wandre à la fois sur Discord et en présentiel.  
 2 sessions : 29-30/05/2021 et 27-28/11/2021 avec 80-100 personnes inscrites.
 
-**Entraînements pour le TRACS** (Viarézo) sur Discord en groupe.
+**Entraînements pour le TRACS** (Viarézo) sur Discord en groupe par mboivin.
 
 ## CTF et Challenges
 
 #### TraceLabs le 6/11/2021
 - team lead : hmerieux
-- cboutier, hmerieux, nbettach, qlouisa
+- cboutier, hmerieux, nbettach, qlouisia
 - résultat : 27/219
 
 <p align="center">
@@ -56,13 +60,13 @@ Vidéos ensuite disponibles sur [Youtube](https://www.youtube.com/channel/UCsiiU
 </p>
 
 #### Hexa OSINT CTF du 3/12/2021 au 5/12/2021
-- team lead : Kamyo
-- avan-pra, hmerieux, nbettach et Patricia
 - nom d'équipe : APT42
+- team lead : hmerieux
+- avan-pra, hmerieux, nbettach, Patricia, qlouisia
 - résultat : 2e
 
 #### TRACS par Viarézo le 04/12/2021
-- 4 équipes de 42
+- 4 équipes de l'école 42 ont participé
 
 ## Partenariats
 
