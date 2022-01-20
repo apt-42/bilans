@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/apt42_banner.png" alt="APT42 logo" />
+  <img src="../assets/apt42_banner.png" alt="APT42 logo" />
 </p>
 
 <h1 align="center">
@@ -10,11 +10,12 @@
 </h3>
 
 - Première année de l'association qui a été présentée en janvier 2021 avec l'objectif de créer une communauté d'entraide en sécurité informatique pour les DuoQuadras.
-- 3 membres au Bureau : agranger (trésorière), clemaist (secrétaire), mboivin (présidente)
-- 18 membres actifs : achevron, ajearuth, aldubar, ascholle, avan-pra, bahaas, hbouchet, hmerieux, jandreu, jdidier, lboukrou, macosta, mbenabbo, nbettach, qlouisia, smagdela, therbret, wandre
+- 3 membres au Bureau : agranger (trésorière), clemaist (secrétaire), mboivin (présidente).
+- 18 membres actifs : achevron, ajearuth, aldubar, ascholle, avan-pra, bahaas, hbouchet, hmerieux, jandreu, jdidier, lboukrou, macosta, mbenabbo, nbettach, qlouisia, smagdela, therbret, wandre.
 
-Voici ce qui a été réalisé cette année :
+## Voici ce qui a été réalisé cette année :
 
+- Rédaction des statuts et de la Charte.
 - Création du serveur **Discord**, du [site web](https://apt42.fr/), du **Github**, chaînes [Twitch](https://www.twitch.tv/apt42_club) et [Youtube](https://www.youtube.com/channel/UCsiiU-HqyHesPC4t3mEMZQw), de la page [Linkedin](https://www.linkedin.com/company/apt42/) et du Wiki interne.
 - Création du logo par Raphaël Almazan.
 - Création de l'équipe université **42paris** sur HackTheBox.
@@ -37,14 +38,22 @@ Vidéos ensuite disponibles sur [Youtube](https://www.youtube.com/channel/UCsiiU
 
 #### TraceLabs le 6/11/2021
 - team lead : hmerieux
-- hmerieux, cboutier, qlouisa, nbettach
+- cboutier, hmerieux, nbettach, qlouisa
 - résultat : 27/219
+
+<p align="center">
+  <img src="htb_univ_ctf.jpeg" alt="HTB University CTF score" height="300" />
+</p>
 
 #### HTB University CTF le 19/11/2021
 - nom d'équipe : APTduoquadra
 - team lead : therbret
 - aldubar, alagroy-, apeyret, arpascal, jmbomeyo, qlouisia, qroland, nbettach, oel-ayad, therbret
 - résultat : 2/594
+
+<p align="center">
+  <img src="hexa_ctf.png" alt="Hexa CTF score" height="300" />
+</p>
 
 #### Hexa OSINT CTF du 3/12/2021 au 5/12/2021
 - team lead : Kamyo
@@ -63,12 +72,12 @@ Vidéos ensuite disponibles sur [Youtube](https://www.youtube.com/channel/UCsiiU
 
 ## Projets pour 2022
 
-Ateliers à partir de la série Mr Robot.
+Ateliers à partir de la série Mr Robot par avan-pra, achevron, ajearuth, smagdela.
 
 Starter pack par mbenabbo : aide pour débuter.
 
 Faire participer les DuoQuadras au Hack OPS SAT par CYSAT les 06-07/04/2022.
 
-Organiser une activité inter-asso avec 42l.
+Organiser une activité inter-asso avec 42l par achevron et mbenabbo.
 
-Partenariat pour organiser une search Party.
+Partenariat pour organiser une Search Party.
