@@ -74,14 +74,18 @@ Un rdv hebdomadaire sur Discord pour s'entraîner en OSINT.
 
 **CYB-RI** chez Ileri
 
+## Communication
+
+Community manager: aldubar
+
 ## Projets pour 2022
 
 Ateliers à partir de la série Mr Robot par avan-pra, achevron, ajearuth, smagdela.
 
-Starter pack par mbenabbo : aide pour débuter.
+Starter pack par nbettach : aide pour débuter.
 
 Faire participer les DuoQuadras au Hack OPS SAT par CYSAT les 06-07/04/2022.
 
-Organiser une activité inter-asso avec 42l par achevron et mbenabbo.
+Organiser une activité inter-asso avec 42l par achevron et nbettach.
 
 Partenariat pour organiser une Search Party.
