@@ -25,8 +25,10 @@
 - Création et organisation de l'évenement au sein de 42.
 - 6 mois de préparation à 7.
 - fait par mboivin, lpascrea, alagroy-, adconsta, jvaquer, wandre, avan-pra.
-- notre plus gros event à ce jour, un ctf OSINT classique + partie irl en mode course d'orientation, des tâches à réaliser pour gagner des points en + etc.
-![scoreboard du ctf](footscoreboard.png)
+- notre plus gros event à ce jour, un CTF OSINT classique + partie irl en mode course d'orientation, des tâches à réaliser pour gagner des points en + etc.
+<p align="">
+  <img src="footscoreboard.png" height="300" />
+</p>
 
 ### Workshop wifi hacking
 - fait par avan-pra.
@@ -34,10 +36,13 @@
 
 ## CTF et Challenges
 
-Tous les compétitions auxquelles aptduoquadra a pris part cette année (du plus ancien au plus récent).  
+Toutes les compétitions auxquelles aptduoquadra a pris part cette année (du plus ancien au plus récent).  
 
 - HTB Uni 2021 Finals : 3/25
-![htb uni 2021 screenshot of scoreboard](htbunifinals.png)
+<p align="">
+  <img src="htbunifinals.png" alt="Hexa CTF score" height="300" />
+</p>
+
 - bleuet aege : 10&12/154
 - SAAR ctf : 26/87
 - Hero ctf v4 : 30/632
@@ -47,7 +52,9 @@ Tous les compétitions auxquelles aptduoquadra a pris part cette année (du plus
 - Phoenix CTF : 3/23
 - TRACS : 67/96
 - HTB uni 2022 : 4/941
-![htb uni 2022 screenshot of end](htbuni2022.png)
+<p align="">
+  <img src="htbuni2022.png" alt="Hexa CTF score" height="300" />
+</p>
 
 ## Projets pour 2023
 
